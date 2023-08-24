@@ -8,16 +8,16 @@ This project is a Flask-based API that interacts with the GitHub API to retrieve
 Make sure you have Python 3 installed on your system.
 Install the required dependencies using the following command:
 
-`pip install Flask requests beautifulsoup4`
+    `pip install Flask requests beautifulsoup4`
 
 To run the Flask app, use the following command:
 
-`make run`
+    `make run`
 
 This will start the Flask app and make it accessible at http://127.0.0.1:5000/.
 To test the app, use the following command:
 
-`make test`
+    `make test`
 
 # Cleaning Up
 To remove generated cache files, use the following command:
